@@ -1,0 +1,37 @@
+# Query: h2
+# ContextLines: 1
+
+16 results - 1 file
+
+index.html:
+   92          <div class="box-content">
+   93:           <h4>Shop holiday gift guides</h4>
+   94            <div
+
+  103          <div class="box-content">
+  104:           <h4>Shop gifts by recipient</h4>
+  105            <div
+
+  114          <div class="box-content">
+  115:           <h4>watches</h4>
+  116            <div
+
+  127          <div class="box-content">
+  128:           <h4>Wireless Tech</h4>
+  129            <div
+
+  138          <div class="box-content">
+  139:           <h4>Level up your beauty</h4>
+  140            <div
+
+  149          <div class="box-content">
+  150:           <h4>Kitchen essentials</h4>
+  151            <div
+
+  160          <div class="box-content">
+  161:           <h4>Shop for your home essentials</h4>
+  162            <div
+
+  171        <div>
+  172:         <h4 id="heading" class="mt-3">Popular items this season</h4>
+  173        </div>
